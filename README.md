@@ -1,4 +1,4 @@
-# ParcelPort
+# angular_4_scaffolding
 
 The frontend was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6. The backend was made from scratch. Whole stack in [TypeScript](https://www.typescriptlang.org).
 
