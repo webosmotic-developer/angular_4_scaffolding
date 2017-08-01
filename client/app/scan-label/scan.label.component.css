@@ -1,0 +1,10 @@
+.pp-scan-label .back-btn,
+.pp-scan-label .next-btn {
+    margin-top: -7px;
+}
+
+.pp-scan-label .back-btn,
+.pp-scan-label .next-btn {
+    background-color: #0098ff;
+    color: #ffffff;
+}

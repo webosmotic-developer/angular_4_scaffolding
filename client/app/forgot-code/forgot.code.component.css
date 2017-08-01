@@ -1,0 +1,11 @@
+.pp-forgot-code .back-btn,
+.pp-forgot-code .next-btn {
+    margin-top: -7px;
+}
+
+.pp-forgot-code .back-btn,
+.pp-forgot-code .next-btn,
+.pp-forgot-code .forgot-btn {
+    background-color: #0098ff;
+    color: #ffffff;
+}

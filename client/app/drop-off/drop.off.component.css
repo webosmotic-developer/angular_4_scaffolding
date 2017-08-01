@@ -1,0 +1,11 @@
+.pp-drop-off .back-btn,
+.pp-drop-off .next-btn {
+    margin-top: -7px;
+}
+
+.pp-drop-off .back-btn,
+.pp-drop-off .next-btn,
+.pp-drop-off .forgot-btn {
+    background-color: #0098ff;
+    color: #ffffff;
+}

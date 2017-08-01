@@ -1,0 +1,25 @@
+<div class="pp-drop-off">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="m-t-10 text-center">
+                <a class="btn btn-default pull-left back-btn primary-color" [routerLink]="['']">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                </a>
+                Scan or enter drop-off code
+                <a class="btn btn-default pull-right next-btn primary-color" [routerLink]="['/scan-label']">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </h4>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-sm-12">
+                    <input class="form-control" placeholder="Enter your code here"/>
+                </div>
+                <div class="col-sm-12 m-t-5 text-center">
+                    <a class="btn btn-default text-uppercase forgot-btn" [routerLink]="['/forgot-code']">Forgot Code</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
